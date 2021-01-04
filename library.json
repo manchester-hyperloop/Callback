@@ -1,0 +1,19 @@
+{
+    "name": "Callback",
+    "description": "A simple wrapper for a function pointer than can handle class methods and functions",
+    "keywords": "Hyperloop, Manchester, hyperloop, manchester, callback, function, pointer",
+    "version": "1.0.0",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/manchester-hyperloop/Callback"
+    },
+    "author":
+    {
+        "name": "Harry O'Brien",
+        "url": "https://github.com/Harry-OBrien",
+        "maintainer": true
+    },
+    "frameworks": "*",
+    "platforms": "*"
+}
